@@ -1,0 +1,107 @@
+====== Recipe List ======
+
+Recipe ID   : 1
+Recipe      : Nasi Lemak
+Ingredients : Rice, Coconut Milk, Sambal, Egg, Anchovies, Cucumber
+Cuisine     : Malaysian
+-----------------------------------
+Recipe ID   : 2
+Recipe      : Roti Canai
+Ingredients : flour, water, butter, oil, sugar, condensed milk
+Cuisine     : Malaysian
+-----------------------------------
+Recipe ID   : 3
+Recipe      : Char Keow Teow
+Ingredients : flat rice noodles, soy sauce, eggs, prawns, bean sprouts
+Cuisine     : Malaysian
+-----------------------------------
+Recipe ID   : 4
+Recipe      : Creme Brulee
+Ingredients : cream, egg, sugar, vanilla
+Cuisine     : French
+-----------------------------------
+Recipe ID   : 5
+Recipe      : Croissant
+Ingredients : flour, butter, yeast, milk
+Cuisine     : French
+-----------------------------------
+Recipe ID   : 6
+Recipe      : Ratatouille
+Ingredients : eggplant, tomato, zucchini, onion, herbs
+Cuisine     : French
+-----------------------------------
+Recipe ID   : 7
+Recipe      : Carbonara
+Ingredients : pasta, egg, cheese, bacon, pepper
+Cuisine     : Italian
+-----------------------------------
+Recipe ID   : 8
+Recipe      : Lasagna
+Ingredients : pasta sheets, beef, tomato sauce, cheese
+Cuisine     : Italian
+-----------------------------------
+Recipe ID   : 9
+Recipe      : Tiramisu
+Ingredients : coffee, mascarpone, cocoa, ladyfingers
+Cuisine     : Italian
+-----------------------------------
+Recipe ID   : 10
+Recipe      : Tuna Onigiri
+Ingredients : rice, seaweed, tuna
+Cuisine     : Japanese
+-----------------------------------
+Recipe ID   : 11
+Recipe      : Miso Soup
+Ingredients : miso paste, tofu, seaweed
+Cuisine     : Japanese
+-----------------------------------
+Recipe ID   : 12
+Recipe      : Takoyaki
+Ingredients : flour, egg, octopus
+Cuisine     : Japanese
+-----------------------------------
+Recipe ID   : 13
+Recipe      : Kung Pao Chicken
+Ingredients : chicken, peanuts, chili, sauce
+Cuisine     : Chinese
+-----------------------------------
+Recipe ID   : 14
+Recipe      : Chinese Fried Rice
+Ingredients : rice, egg, vegetables, soy sauce
+Cuisine     : Chinese
+-----------------------------------
+Recipe ID   : 15
+Recipe      : Mapo Tofu
+Ingredients : tofu, chili bean paste, pork
+Cuisine     : Chinese
+-----------------------------------
+Recipe ID   : 16
+Recipe      : Cheeseburger
+Ingredients : beef patty, cheese, bun, lettuce, sauce
+Cuisine     : American
+-----------------------------------
+Recipe ID   : 17
+Recipe      : Caesar Salad
+Ingredients : lettuce, parmesan cheese, croutons, dressings
+Cuisine     : American
+-----------------------------------
+Recipe ID   : 18
+Recipe      : Cinnamon Roll
+Ingredients : flour, cinnamon, sugar, butter
+Cuisine     : American
+-----------------------------------
+Recipe ID   : 19
+Recipe      : Gado Gado
+Ingredients : vegetables, tofu, tempeh, peanut sauce, egg
+Cuisine     : Indonesian
+-----------------------------------
+Recipe ID   : 20
+Recipe      : Nasi Padang
+Ingredients : rice, beef, curry sauce, vegetables
+Cuisine     : Indonesian
+-----------------------------------
+Recipe ID   : 21
+Recipe      : Ayam Geprek
+Ingredients : fried chicken, flour, garlic, chili sambal
+Cuisine     : Indonesian
+-----------------------------------
